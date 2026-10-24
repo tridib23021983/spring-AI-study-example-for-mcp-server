@@ -1,0 +1,27 @@
+# Maven/Java
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+
+# Maven wrapper
+.mvn/
+
+# Spring Boot
+spring.log
+
+# Others
+/node_modules/
